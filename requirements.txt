@@ -1,12 +1,21 @@
+# Core
 streamlit==1.30.0
 streamlit-webrtc==0.47.0
 av==10.0.0
+
+# Computer vision
 opencv-python==4.8.1.78
 mediapipe==0.10.0
+
+# Audio / TTS
 pygame==2.3.0
 gTTS==2.5.3
+
+# Utilities
 requests==2.32.3
-streamlit-lottie==0.0.5
 numpy==1.26.4
-altair==5.4.1
 pandas==2.2.2
+altair==5.4.1
+
+# UI
+streamlit-lottie==0.0.5
