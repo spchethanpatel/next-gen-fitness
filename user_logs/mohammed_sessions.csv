@@ -1,0 +1,12 @@
+start_ts,end_ts,duration_s,total_reps,per_ex_json,calories
+2025-08-24 00:14:41,2025-08-24 00:16:06,84,3,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 3, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-08-24 00:55:46,2025-08-24 00:56:37,50,0,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-08-24 01:02:26,2025-08-24 01:08:15,349,0,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-08-24 01:33:08,2025-08-24 01:33:38,29,0,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-08-24 01:46:05,2025-08-24 02:30:23,2657,37,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 3, ""arm_raise"": 34}",4
+2025-08-24 02:30:51,2025-08-24 02:41:53,662,0,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-08-24 03:41:07,2025-08-24 03:46:59,351,0,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-08-28 15:19:43,2025-08-28 15:36:35,1011,5,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 5}",0
+2025-08-31 20:17:53,2025-08-31 20:21:01,188,0,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-09-25 10:00:36,2025-09-25 10:04:54,258,0,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 0}",0
+2025-09-25 10:14:42,2025-09-25 10:16:37,115,4,"{""squat"": 0, ""pushup"": 0, ""jumping_jack"": 0, ""high_knees"": 0, ""arm_raise"": 4}",0
